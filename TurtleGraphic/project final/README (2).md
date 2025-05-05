@@ -21,7 +21,7 @@ This project is a graphical drawing tool developed using **Java Swing** and the 
 - ✅ Save typed commands to a text file using `save`
 - ✅ Load and auto-execute commands using `load`
 - ✅ GUI Dialogues with `JFileChooser` and `JOptionPane`
-- ✅ Override `about()` to include your name
+- ✅ Override `about()` to include my name
 - ✅ Supports drawing with commands:
   - `turtleMove <pixels>`
   - `reverse <pixels>`
