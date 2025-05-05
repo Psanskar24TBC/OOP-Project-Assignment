@@ -23,11 +23,11 @@ This project is a graphical drawing tool developed using **Java Swing** and the 
 - ✅ GUI Dialogues with `JFileChooser` and `JOptionPane`
 - ✅ Override `about()` to include your name
 - ✅ Supports drawing with commands:
-  - `forward <pixels>`
-  - `backward <pixels>`
+  - `turtleMove <pixels>`
+  - `reverse <pixels>`
   - `left <degrees>`
   - `right <degrees>`
-  - `drawOn`, `drawOff`
+  - `penUp`, `penDown`
   - `penwidth <size>`
   - `pencolor <r> <g> <b>`
   - `square <side>`
@@ -78,10 +78,3 @@ Java_Project2025/
 - Errors (e.g., negative input, invalid RGB) are handled with GUI warnings.
 - Saved command files can be reloaded and replayed.
 
----
-
-## 📷 Screenshots & Demo
-
-[Include screenshots of your shapes, clock, or "SANSKAR" drawing here if required.]
-
----
